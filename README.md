@@ -2,7 +2,7 @@
 
 Meu nome é Matheus Rocha 
 
-- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou estudando na [Unipar]([https://www.alura.com.br](https://www.unipar.br/))
 - Estou me desenvolvendo na linguaguem de marcação HTML
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
